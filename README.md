@@ -1,6 +1,8 @@
 # DIS talk: Face video compression with generative networks
 
 ## This repository contains some demos from the DIS talk of Dr. Yan Ye, entitled "Face video compression with generative networks". 
+## The presentation slides have been uploaded for download. 
+
 ## Demo: Similar Bitrate
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)](https://user-images.githubusercontent.com/80899378/236777727-0e641d02-6a7c-46e1-be0b-bfa54745e54f.mp4)
