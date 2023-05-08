@@ -4,12 +4,23 @@
 
 ## Demo: Similar Bitrate
 
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
+
+
 ## Demo: Similar Quality
+
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
 
 ## Demo: Animating Virtual Faces
 
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
+
 ## Demo: Interacting with Facial Expression and Head Posture
 
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)](https://user-images.githubusercontent.com/80899378/222747423-26c459a5-83bc-48cf-999b-a7fb0a3321bd.mp4)
 
 
 ## Reference
