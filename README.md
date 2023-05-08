@@ -2,6 +2,13 @@
 
 ## This repository contains some demos from the DIS talk of Dr. Yan Ye, entitled "Face video compression with generative networks". The related presentation link can be found in xxxx.
 
+## Demo: Similar Bitrate
+
+## Demo: Similar Quality
+
+## Demo: Animating Virtual Faces
+
+## Demo: Interacting with Facial Expression and Head Posture
 
 
 
